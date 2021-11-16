@@ -17,6 +17,7 @@ This game usually starts with an empty grid of dots on a surface. The innovation
 But there are two main rules for this game:
 * Avoid drawing the one before last edge of each rectangular/triangular cell.   
 * If there was no way out, avoid handing the longer tunnel of squares to your opponents.
+
 Whenever a player makes a move that encloses a unit square with the drawn edges, the player is awarded a point and must then draw another edge in the same move. The most exciting part of this game starts when you have to choose between tunnels. The game ends when the entire grid has been drawn and the winner is the player with the most boxes claimed.
 ![Quad.gif](https://raw.githubusercontent.com/mahdiyargit/Seal/master/Quad.gif)
 ![Tri.gif](https://raw.githubusercontent.com/mahdiyargit/Seal/master/Tri.gif)
