@@ -16,7 +16,7 @@ namespace Seal
     {
         private DotsNBoxesConduit _conduit;
         private int _playground, _start, _x = 5, _y = 5;
-        private OptionColor _userColor = new OptionColor(Color.Black);
+        private OptionColor _userColor = new OptionColor(Color.Blue);
         private OptionColor _sealColor = new OptionColor(Color.Red);
         private Mesh _m;
         private List<int> _freeEdges;
